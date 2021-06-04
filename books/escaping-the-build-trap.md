@@ -175,3 +175,87 @@ Without a Scrum team or with a smaller team, you might be doing more strategy an
 **With a good strategy framework in place and ruthless prioritisation around a few key goals, one person can effectively talk to customers, understand their problems, and help to define the solutions with the team.**
 
 ### The product manager career path
+
+_Tactical work_ for a product manager focuses on the shorter-term actions of building features and getting out of the door, scoping out work and crunching the data to determine what to do next.
+
+_Strategic work_ is about positioning the product and the company to win in the market and achieve goals, it looks like the future state of the product and company.
+
+_Operational work_ is about tying the strategy back to the tactical work. Here is were Product Managers create a roadmap that connects the current and the future state of the product.
+
+#### Associate product manager
+
+Open up this role to people making the switch into product management. Pair them with a senior product manager to teach them the ropes.
+
+#### Product manager
+
+Works with a development team and UX designers to ideate and build the right solutions for the customers, talking to users, synthesising the data, making the decisions from a feature perspective. Product managers are usually responsible for a feature or a set of features part of a larger product.
+
+The product manager needs to be strategic enough to help craft the vision of the features and how they fit into the overall product but tactical enough to ensure a smooth execution of the solution. They tend to skew more operational than strategic at this level due to their shorter-term impact the delivery of the roadmap.
+
+The danger is when a product manager is 100% operational, focusing only on shipping products and not on optimising the feature. When they optimise for the day-to-day execution of the team they usually fall behind in the necessary strategy and vision for the features to succeed. **It's imperative to push back as much project management effort as possible to the team and trust them to deliver.**
+
+Product managers are part of a larger product team, feeding data about the success of features to product people. This helps inform the strategy and direction of the product portfolio and organisation.
+
+#### Senior product manager
+
+Same as product managers but they also oversee more scope or a more complex product. It is as high in the product management field as you can go as an individual contributor. They want to focus on building products instead of growing a team. You must balance being highly strategic and highly operational.
+
+This role is for people who like difficult product problems. They are usually entrepreneurial, and that's a great trait because they will be the ones to start new product lines for businesses.
+
+#### Director of product
+
+At a certain point, the company will grow enough that there are too many people reporting into the head of product. A director of product becomes necessary to help promote strategic alignment and operational efficiency.
+
+They oversee a group of product managers who are aligned around a product in a portfolio or a product line. They ar responsible for the strategic roadmap of the product, making sure all product managers are aligned by the appropriate goals and working in the most important items to move the product forward.
+
+#### VP of product
+
+This is someone who oversees the strategy and operations for an entire product line. They set the vision and goals for the overall product. In large enterprises they are also directly responsible for financial success of their product line, not just the delivery of product features.
+
+A VP of product is usually the highest level in smaller companies because there is only one product and not multiple product lines. A successful VP of product needs to fundamentally be more of a strategic person and they know that in order to scale their organisation, they need to hire in people who take over the tactical and operational components.
+
+#### Chief product officer
+
+A CPO oversees a company's entire product portfolio and they ensure it works together to achieve the company goals. Although a VP of product needs to understand how their product roadmap affects the economics of the company, a CPO needs to do that across all products. They work with VPs of product to ensure that every product is strategically aligned to the company's objectives and each product has what it needs, from a resource and people perspective, to reach the established goals.
+
+A CPO needs to be able to interface at the board level. A successful CPO needs to be able to translate their actions into terms the board will understand.
+
+> They inspire confidence, empathise, and are relentless and resilient
+
+To inspire confidence, **CPOs work across many functions to gain buy-in and alignment, they get through things through influence versus direct authority**. By empathising with the other members of their peer group, their customers and their teams, CPOs can find a way forward that aligns all the goals.
+
+Finally, a CPO must be relentless and resilient. They need to desire to dig in and find out what is working and what is not, assessing and analysing, trying to prove their hypothesis right and wrong, and holding themselves accountable to data.
+
+Having a strong product leader in the C-Suite is a critical step to becoming product-led.
+
+### Organising your teams
+
+Companies tend to organise in three main ways: value streams, features, and technical components.
+
+Teams organised around features usually do so in order to get ownership over every part of the product, although this is good if you are starting from scratch, it promotes a very output-oriented mindset. We tend to look for ways to develop more things related to our little slice of the product. When features are stable, we should monitor them and then move on to more important work needed to support our strategy.
+
+When companies are small, you can organise effectively around goals you are trying to reach. This is the case for TransferWise. One team is focused on retention, another on implementing new currencies, and another on acquiring customers. Each of these teams has ownership of their goal and is judged for success based on their outcomes. It takes a huge amount of coordination across the product teams, so everyone is responsible for collaborating intensely with one another. This structure creates a nice redundancy across the company, so important information about a single product is not stuck in the head of one person.
+
+As companies scale, this may not be a viable option. A _value stream_ is all activities needed to deliver value to the customer. That includes process from discovering the problem, setting goals, and conceiving of the idea, to delivering the actual product or service. Every organisation should strive to optimise this flow in order to get value out the door faster to customers, and in order to do so, it makes sense to organise your teams around the value stream.
+
+First you begin with the customer or user, whomever is consuming your product at the end of the day. What is the value that you are providing to them? Then work backward. FInd the touchpoints they have with your company to receive that value. How do you organise to optimise and streamline that journey for them? How do you optimise to provide more value, faster?
+
+Many companies are confused by the word _product_. If your app, interface, or feature is not inherently adding value on its own, it's just a piece of the entire product. You have to look beyond just that piece to understand how to manage for value delivery and creation.
+
+For example, car insurance provides peace of mind in case you get into an accident, that's value. An iPhone app that allows you to manage your car insurance is only a piece of that product's value stream; the app on its own is not enough value.
+
+You can still have a product manager owning that iPhone app experience, but you must make sure that they are part of a larger division that holds the true value, the car insurance division. This structure makes it possible to set strategy at the division level. with the product manager able to execute on product initiatives that tie to their product. Keeping the strategy and the value execution together is key.
+
+By minimising the number of layers and by giving product managers more scope over their product areas, you can effectively create a product organisation with a structure that supports the product strategy.
+
+#### Marquetly's product team
+
+> The company had 20 product teams organised around components. "How should we build this organisation?" "We need to restructure around value streams". We needed to start by hiring an experienced chief product officer. We have a great VP of product, good at the tactical and strategic work for a single product vision, but unfortunately she doesn't understand how to manage a portfolio of products. We also need more senior people.
+>
+> You can't build an organisational structure without a product vision, because the value streams are not apparent.
+>
+> To make considerable impact, you need to have everyone going in the same direction, working toward the same goals.
+
+## Strategy
+
+A good strategy is not a plan; it's a framework that helps you make decisions. Product strategy connects the vision and economic outcomes of the company back to product portfolio, individual product initiatives, and solution options for the teams. Strategy creation is the process of determining the direction of the company and developing the framework in which people make decisions.
