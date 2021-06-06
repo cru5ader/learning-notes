@@ -71,7 +71,7 @@ A data-intensive application is typically built from standard building blocks. T
 
 Typical expectations:
 * Application performs the function the user expected
-* Tolerate the user making mistakes
+* Tolerate the user making mistakes - eg. user may pass null values, the application should have validations checks on the input passed to it to avoid any NPE.
 * Its performance is good
 * The system prevents abuse
 
